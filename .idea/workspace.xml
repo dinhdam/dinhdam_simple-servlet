@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="simpleServlet:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="541715b5-3343-4e93-ac04-3fa7297f1e8a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ processConfirm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/CodeGym.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ballgame" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstProject/.idea/FirstProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstProject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstProject/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstProject/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTML" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../array" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai1/.idea/bai1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai1/bai1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai1/c08g1-dam.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai2/.idea/bai2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai2/bai2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai2/c08g1-dam.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap1/.idea/baitap1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitap1/C0818G1_dam_baitap1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitapchuoi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitapdieukien" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baitaptiente" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bientoantu" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cacdoituongthongdung" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cau1/.idea/cau1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cau1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cau1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cau1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cau1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cau1/C0818G1-dam.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cau1/c08g1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cau3/.idea/cau3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cau3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cau3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cau3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cau3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cau3/baitap2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cau3/c08g1-dam.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cau4/.idea/cau4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cau4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cau4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cau4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cau4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cau4/c08g1-dam.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cau4/cau4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cautruc if else/.idea/cautruc if else.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cautruc if else/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cautruc if else/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cautruc if else/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cautruc if else/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cautruc if else/baitap1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cocaro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../console.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../console/.idea/console.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../console/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../console/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../console/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../console/console.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../console_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../constan/.idea/constan.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../constan/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../constan/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../constan/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../constan/constan.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cosole.log/.idea/cosole.log.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cosole.log/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cosole.log/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cosole.log/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cosole.log/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../date/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dieukien" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dieukien2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../document" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flashlamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gamepuzzle/.idea/gamepuzzle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gamepuzzle/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gamepuzzle/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gamepuzzle/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gamepuzzle/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gamepuzzle/game.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gamepuzzle/gautruc1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gamepuzzle/gautruc2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gamepuzzle/gautruc3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gamepuzzle/gautruc4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gamepuzzle/gautruc5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gamepuzzle/khi1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gamepuzzle/khi2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gamepuzzle/khi3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gamepuzzle/khi5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gamepuzzle/khi6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gamepuzzle/meo 2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gamepuzzle/meo1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gamepuzzle/meo3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gamepuzzle/meo4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gamepuzzle/meo5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giaithuat/.idea/giaithuat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giaithuat/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giaithuat/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giaithuat/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giaithuat/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giaithuat/tim gia tri max min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giatritrongmang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goiham" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goodfastcheep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ham_alert" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hamcuamang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kiemtratu" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laptrinhhuongdoituong" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luyentapham" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luyentapmang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luyentapphanmang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mang2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maytinh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../motathuattoan" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newproject" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nguyento" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/.idea/project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/chuyen doi nhiet do.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../result/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../result/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../result/.idea/result.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../result/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../result/result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reverse" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Servlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sudungtoantu" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tape" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../temperature/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../temperature/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../temperature/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../temperature/.idea/temperature.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../temperature/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../temperature/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../temperature/minmax.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../temperature/temp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/hcn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuattoan" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tic tac toe/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tic tac toe/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tic tac toe/.idea/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tic tac toe/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tic tac toe/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tic tac toe/baitap1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tic tac toe/test 2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tic tac toe/test 3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tic tac toe/test 4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tic tac toe/test 6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tic tac toe/test bai tap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tic tac toe/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tictactoe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../variable value" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vonglap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vonglapfor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vonglapfor2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../work/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../work/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../work/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../work/.idea/work.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../work/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../work/on tap toan tu.html" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1189275604">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="1" />
+          <entry key="jsp" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+          <entry key="JSP" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Servlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="237">
+              <caret line="12" column="94" selection-start-line="12" selection-start-column="94" selection-end-line="12" selection-end-column="94" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="63" lean-forward="true" selection-start-line="6" selection-start-column="63" selection-end-line="6" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Servlet.java" />
+        <option value="$PROJECT_DIR$/web/index.jsp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="995" />
+    <option name="y" value="50" />
+    <option name="width" value="710" />
+    <option name="height" value="765" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="simpleServlet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="simpleServlet" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539843142793" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 8.5.34" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.34" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <deployment>
+        <artifact name="simpleServlet:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_8_5_34_simpleServlet" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="61446" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="simpleServlet:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="541715b5-3343-4e93-ac04-3fa7297f1e8a" name="Default Changelist" comment="" />
+      <created>1539842891301</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539842891301</updated>
+      <workItem from="1539842904416" duration="223000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="223000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Capture Tool" />
+      <window_info id="Web" sideWeight="0.5021097" side_tool="true" visible="true" weight="0.24966443" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978903" visible="true" weight="0.24966443" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Application Servers" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Servlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="12" column="94" selection-start-line="12" selection-start-column="94" selection-end-line="12" selection-end-column="94" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="63" lean-forward="true" selection-start-line="6" selection-start-column="63" selection-end-line="6" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
